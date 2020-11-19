@@ -1,0 +1,20 @@
+{
+    "categories":[
+        {
+            "id": 1,
+            "type": "Véhicule"
+        },
+        {
+            "id": 2,
+            "type": "Mode"
+        },
+        {
+            "id": 3,
+            "type": "Bricolage"
+        },
+        {
+            "id": 4,
+            "type": "Loisirs"
+        }
+    ]
+}
